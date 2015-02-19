@@ -107,4 +107,4 @@ time ssh user@server 'nohup ./e1wrap.sh &'
 
 #### Gas-Nuki
 
-[nohupがcoreosで上手く動かない対処法 - gist](https://gist.github.com/kotaro-dev/b2c81b6e9775dc1e0256 nohupがcoreosで上手く動かない対処法)
+[nohupがcoreosで上手く動かない対処法 - gist](https://gist.github.com/kotaro-dev/b2c81b6e9775dc1e0256)
